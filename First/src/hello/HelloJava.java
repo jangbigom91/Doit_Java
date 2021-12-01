@@ -1,7 +1,7 @@
 /* 
-  ³¯Â¥ : 2021³â 11¿ù 15ÀÏ
-  ÀÌ¸§ : ÃÖÁ¤ÇÑ
-  ³»¿ë : ÀÚ¹Ù Ã¹ ½ÃÀÛ
+  ë‚ ì§œ : 2021ë…„ 11ì›” 15ì¼
+  ì´ë¦„ : ìµœì •í•œ
+  ë‚´ìš© : ìë°” ì²« ì‹œì‘
  */
 package hello;
 
@@ -9,7 +9,5 @@ public class HelloJava {
 
 	public static void main(String[] args) {
 		System.out.println("Hello, Java");
-
 	}
-
 }
